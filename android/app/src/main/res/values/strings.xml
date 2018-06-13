@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MNIST</string>
+    <string name="imgdesc">Description of digit</string>
+    <string name="pbtext">Predict</string>
+    <string name="nbtext">Next Image</string>
+    <string name="tvtext">Result:</string>
+</resources>
